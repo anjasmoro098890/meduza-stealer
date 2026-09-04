@@ -1,0 +1,6 @@
+<Project Sdk="Microsoft.NET.Sdk">
+  <PropertyGroup>
+    <RootNamespace>Meduza.Core</RootNamespace>
+    <AssemblyName>Meduza.Core</AssemblyName>
+  </PropertyGroup>
+</Project>
